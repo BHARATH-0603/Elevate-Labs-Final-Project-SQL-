@@ -1,0 +1,51 @@
+product_id,name,category,price,stock_quantity
+1,"Smart Watch",Electronics,1999.99,50
+2,"Wireless Mouse",Electronics,499.00,120
+3,"Bluetooth Speaker",Electronics,899.00,60
+4,"Yoga Mat",Fitness,799.50,30
+5,"Water Bottle",Fitness,299.00,200
+6,"Running Shoes",Footwear,1599.00,75
+7,"Formal Shoes",Footwear,2199.00,90
+8,"Denim Jeans",Clothing,1299.00,40
+9,"Cotton T-shirt",Clothing,499.00,150
+10,Jacket,Clothing,2399.00,25
+11,Notebook,Stationery,120.00,500
+12,"Pen Set",Stationery,250.00,300
+13,"Desk Lamp",Home,699.00,40
+14,"Wall Clock",Home,899.00,35
+15,"Coffee Mug",Kitchen,199.00,200
+16,"Frying Pan",Kitchen,899.00,60
+17,Backpack,Bags,999.00,100
+18,"Laptop Sleeve",Bags,499.00,120
+19,"Face Wash","Personal Care",199.00,180
+20,"Hair Dryer","Personal Care",1099.00,30
+21,Toothbrush,"Personal Care",99.00,300
+22,"Electric Kettle",Appliances,1299.00,45
+23,"Iron Box",Appliances,1399.00,50
+24,"Socks Pack",Clothing,199.00,200
+25,Cap,Accessories,249.00,90
+26,Sunglasses,Accessories,799.00,55
+27,"Smartphone Case",Accessories,399.00,100
+28,"Power Bank",Electronics,1499.00,80
+29,"USB Cable",Electronics,199.00,250
+30,Router,Electronics,1899.00,40
+31,Cooker,Kitchen,1599.00,30
+32,"Hand Towel",Home,149.00,300
+33,Doormat,Home,249.00,100
+34,"Book Light",Stationery,349.00,40
+35,Diary,Stationery,449.00,80
+36,Sweatshirt,Clothing,1599.00,45
+37,Wallet,Accessories,699.00,60
+38,"Bluetooth Headset",Electronics,1499.00,70
+39,"Gaming Mouse",Electronics,1899.00,50
+40,"HDMI Cable",Electronics,349.00,150
+41,"Printer Ink",Stationery,599.00,90
+42,Blender,Kitchen,1799.00,40
+43,"Notebook Stand",Home,999.00,20
+44,Tripod,Electronics,1099.00,25
+45,"Extension Box",Electronics,699.00,80
+46,"Trekking Bag",Bags,2499.00,20
+47,"Makeup Kit","Personal Care",1299.00,30
+48,"Hair Straightener","Personal Care",1999.00,35
+49,Charger,Electronics,899.00,100
+50,"LED Bulb Pack",Home,299.00,120
