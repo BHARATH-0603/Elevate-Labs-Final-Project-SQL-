@@ -1,1 +1,0 @@
-# Elevate-Labs-Final-Project-SQL-
